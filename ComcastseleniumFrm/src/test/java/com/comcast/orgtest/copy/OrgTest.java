@@ -19,5 +19,8 @@ public class OrgTest {
 	{
 		System.out.println("running edit org");
 	}
-
+	public void editOrganizationTest()
+	{
+		System.out.println("running editOrganizationTest org");
+	}
 }
