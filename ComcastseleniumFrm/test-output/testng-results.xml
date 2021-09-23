@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70" started-at="2021-09-21T22:27:49 IST" finished-at="2021-09-21T22:27:50 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70" started-at="2021-09-21T22:27:49 IST" finished-at="2021-09-21T22:27:50 IST">
+      <class name="com.comcast.Contact.CreatOrg">
+        <test-method status="PASS" signature="creatOrgTest()[pri:0, instance:com.comcast.Contact.CreatOrg@1f7030a6]" name="creatOrgTest" duration-ms="10" started-at="2021-09-21T22:27:49 IST" finished-at="2021-09-21T22:27:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatOrgTest -->
+        <test-method status="PASS" signature="deleatOrgTest()[pri:0, instance:com.comcast.Contact.CreatOrg@1f7030a6]" name="deleatOrgTest" duration-ms="2" started-at="2021-09-21T22:27:50 IST" finished-at="2021-09-21T22:27:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleatOrgTest -->
+        <test-method status="PASS" signature="modifyOrgTest()[pri:0, instance:com.comcast.Contact.CreatOrg@1f7030a6]" name="modifyOrgTest" duration-ms="6" started-at="2021-09-21T22:27:50 IST" finished-at="2021-09-21T22:27:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyOrgTest -->
+      </class> <!-- com.comcast.Contact.CreatOrg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
